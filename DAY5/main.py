@@ -1,0 +1,1 @@
+print("Hello", 6,7,8, sep="$", end="poop")
